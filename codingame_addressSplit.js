@@ -9,3 +9,8 @@
 // ZipCode: Will always be five numerical digits (i.e. 12345)
 
 
+const addressSplit = (address) => {
+   return address
+}
+
+console.log();
